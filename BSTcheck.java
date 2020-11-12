@@ -1,7 +1,7 @@
 
 public class BSTcheck {
 
-	class Node {
+    class Node {
         int data;
         Node left;
         Node right;
